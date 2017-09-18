@@ -1,4 +1,10 @@
 {
-    "name": "open-stack-bruce",
-    "require": {}
+    "name": "openStack/openStackForPhp",
+    "description": "The openStack php.",
+    "keywords": ["openStack", "php"],
+    "license": "MIT",
+    "type": "project",
+    "require": {
+		
+    }
 }
