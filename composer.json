@@ -1,5 +1,5 @@
 {
-    "name": "openStack/openStackForPhp",
+    "name": "openstackphp/openstackforphp",
     "description": "The openStack php.",
     "keywords": ["openStack", "php"],
     "license": "MIT",
