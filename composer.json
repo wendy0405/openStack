@@ -10,7 +10,7 @@
     "autoload": {
         "psr-4": {
             "OpenStack\\Ostack\\": "src"
-        }
+        },
     "name": "openstackphp/openstackforphp",
     "description": "The openStack php.",
     "keywords": ["openStack", "php"],
