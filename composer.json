@@ -1,6 +1,7 @@
 {
     "name": "openStack/openStackForPhp",
     "description": "The openStack php.",
+	"type": "library",
     "keywords": ["openStack", "php"],
     "license": "MIT",
     "require": {
@@ -10,5 +11,11 @@
         "psr-4": {
             "OpenStack\\Ostack\\": "src"
         }
+    "name": "openstackphp/openstackforphp",
+    "description": "The openStack php.",
+    "keywords": ["openStack", "php"],
+    "license": "MIT",
+    "type": "project",
+    "require": {
     }
 }
