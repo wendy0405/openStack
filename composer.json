@@ -1,0 +1,14 @@
+{
+    "name": "openStack/openStackForPhp",
+    "description": "The openStack php.",
+    "keywords": ["openStack", "php"],
+    "license": "MIT",
+    "require": {
+		
+    },
+    "autoload": {
+        "psr-4": {
+            "OpenStack\\Ostack\\": "src"
+        }
+    }
+}
